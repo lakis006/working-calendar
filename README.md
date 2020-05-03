@@ -1,3 +1,4 @@
 # working-calendar
 
-GIVEN I am using a daily planner to create a schedule
+Link to deployed app => https://lakis006.github.io/working-calendar/
+
